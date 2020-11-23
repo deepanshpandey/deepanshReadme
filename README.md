@@ -1,6 +1,6 @@
 ### Hi there, I'm Deepansh - [deepanshpandey.ml][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
+[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://deepanshpandey.ml)
 [![Twitter Follow](https://img.shields.io/twitter/follow/deepanshpandey_?label=Follow%20me%20on%20Twitter&style=for-the-badge)](https://twitter.com/deepanshpandey_)
 
 ## I'm a Student, Programmer in Construction, and Android Enthusiast!!
@@ -13,7 +13,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Deepansh Pandey Spotify Playing" width="350" />](https://open.spotify.com/user/21gsmdzwp4u22tfa22g7hqntq?si=oLhLix1jTrKlzMZ3-RyA3w)
+[<img src="https://https://spotify-now-playing-six-swart.vercel.app/api/spotify-playing" alt="Deepansh Pandey Spotify Playing" width="350" />](https://open.spotify.com/user/21gsmdzwp4u22tfa22g7hqntq?si=oLhLix1jTrKlzMZ3-RyA3w)
 
 ### Connect with me:
 
