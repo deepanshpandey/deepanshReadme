@@ -13,7 +13,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://https://spotify-now-playing-six-swart.vercel.app/api/spotify-playing" alt="Deepansh Pandey Spotify Playing" width="350" />](https://open.spotify.com/user/21gsmdzwp4u22tfa22g7hqntq?si=oLhLix1jTrKlzMZ3-RyA3w)
+[<img src="https://spotify-now-playing-46xzhlayv.vercel.app/api/spotify-playing" alt="Deepansh Pandey Spotify Playing" width="350" />](https://open.spotify.com/user/21gsmdzwp4u22tfa22g7hqntq?si=oLhLix1jTrKlzMZ3-RyA3w)
 
 ### Connect with me:
 
