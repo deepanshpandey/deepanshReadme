@@ -1,7 +1,7 @@
 ### Hi there, I'm Deepansh - [deepanshpandey.ml][website] 👋
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/deepanshpandey_?label=Follow%20me%20on%20Twitter&style=for-the-badge)](https://img.shields.io/twitter/follow/deepanshpandey_?label=Follow%20me%20on%20Twitter&style=for-the-badge)
+[![Twitter Follow](https://img.shields.io/twitter/follow/deepanshpandey_?label=Follow%20me%20on%20Twitter&style=for-the-badge)](https://twitter.com/deepanshpandey_)
 
 ## I'm a Husband, Father, Developer, and Teacher!!
 
